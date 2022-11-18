@@ -1,6 +1,5 @@
 package org.example;
 
-
 import com.example.grpc.GreetingServiceGrpc;
 import com.example.grpc.GreetingServiceOuterClass;
 import io.grpc.stub.StreamObserver;
